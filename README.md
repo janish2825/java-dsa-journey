@@ -4,3 +4,5 @@ My Java, DSA and problem-solving journey.
 
 Currently learning Git and GitHub from the command line.
 
+Git practice session 2.
+
